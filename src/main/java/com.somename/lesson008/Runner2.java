@@ -1,6 +1,6 @@
 package com.somename.lesson008;
 
-class Runner2 implements Runnable{
+public class Runner2 implements Runnable{
 	
 	@Override
 	public void run() {

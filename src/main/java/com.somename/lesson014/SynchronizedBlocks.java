@@ -53,5 +53,6 @@ public class SynchronizedBlocks {
 		
 		System.out.println("Counter1 " + counter1);
 		System.out.println("Counter2 " + counter2);
+		//for beautiful contribution calendar
 	}
 }
